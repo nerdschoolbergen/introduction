@@ -51,4 +51,4 @@ TBA
 
 **Eirik Bell**
 
-TBA
+Eirik works as a consultant at Bouvet Bergen. Most of the development experience is within the asp.net stack, ranging from backend development with databases, security and services to front end development with javascript. Currently Eirik works on a Javascript application for Statoil. With a strong interest in code quality, automation and work processes, Eirik also have long experience with architecture, infrastructure and deployment pipelines.
