@@ -15,7 +15,7 @@ Nr. | Name | Date
 1   | Bash/shell scripting | 16.09.2015
 2   | Git | 30.09.2015
 3   | Introduction to JavaScript | 14.10.2015
-4   | JavaScript infrastructure | 28.10.2015
+4   | JavaScript infrastructure | 21.10.2015
 5   | Test-Driven Development with JavaScript | 11.11.2015
 
 TBA: More info regarding each lesson
